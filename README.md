@@ -18,7 +18,9 @@ Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnolog
 <br>
 
 <p align="center">
-  <img alt="Virtual Card Project" src=".github/cover.png" width="100%">
+ <a href="https://estercopinheiro.github.io/virtualcard/" target="_blank">
+   <img alt="Virtual Card Project" src=".github/cover.png" width="100%">
+  </a>
 </p>
 
 ## 🚀 Tecnologias
